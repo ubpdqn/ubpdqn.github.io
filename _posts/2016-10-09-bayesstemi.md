@@ -16,4 +16,6 @@ title: The Undiscovered Country
      3. [Lab To PCI](https://rpubs.com/atomofjustice/ppci04)
      
      4. [After-hours Effect](https://rpubs.com/atomofjustice/ppci05)
+     
+     5. [Longitudinal analysis](https://rpubs.com/atomofjustice/ppci06)
       
