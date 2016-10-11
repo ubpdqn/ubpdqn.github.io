@@ -19,5 +19,5 @@ title: The Undiscovered Country
      
      5. [Longitudinal analysis](https://rpubs.com/atomofjustice/ppci06)
      
-     6. [Day distribution of myocardial infarct hospital presentations](https://rpubs.com/atomofjustice/ppci06)
+     6. [Day distribution of myocardial infarct hospital presentations](https://rpubs.com/atomofjustice/ppci07)
       
