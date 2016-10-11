@@ -18,4 +18,6 @@ title: The Undiscovered Country
      4. [After-hours Effect](https://rpubs.com/atomofjustice/ppci05)
      
      5. [Longitudinal analysis](https://rpubs.com/atomofjustice/ppci06)
+     
+     6. [Day distribution of myocardial infarct hospital presentations](https://rpubs.com/atomofjustice/ppci06)
       
