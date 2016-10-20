@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Undiscovered Country
+title: Bayesian Analysis STEMI
 ---
 
 ## Bayeasian Analysis of Time to Reperfusion for Primary PCI for STEMI
