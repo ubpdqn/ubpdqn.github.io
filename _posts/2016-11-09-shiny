@@ -1,0 +1,5 @@
+---
+layout: post
+title: Shiny
+---
+I have just started using `shiny` package. A look at my fuel consumption (odometer, cost,cost per litre(rate), volume of fuel) is [here](https://ubpdqn.shinyapps.io/fuel/) 
